@@ -15,7 +15,7 @@ out collectively by the network. UMRcoin Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the UMRcoin Core software, see [https://umaru-coin.com](https://umaru-coin.com).
+the UMRcoin Core software, see [https://umarucoin.github.io/](https://umarucoin.github.io/).
 
 License
 -------
