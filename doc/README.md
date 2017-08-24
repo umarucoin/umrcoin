@@ -13,7 +13,7 @@ The following are some helpful notes on how to run UMRcoin on your native platfo
 
 ### Unix
 
-Unpack the files into a directory and run:
+Build the files and run:
 
 - `bin/umrcoin-qt` (GUI) or
 - `bin/umrcoind` (headless)
@@ -24,14 +24,7 @@ Unpack the files into a directory, and then run umrcoin-qt.exe.
 
 ### OS X
 
-Drag UMRcoin-Core to your applications folder, and then run UMRcoin-Core.
-
-### Need Help?
-
-* See the documentation at the [UMRcoin Wiki](https://umrcoin.info/)
-for help and more information.
-* Ask for help on [#umrcoin](http://webchat.freenode.net?channels=umrcoin) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net?channels=umrcoin).
-* Ask for help on the [UMRcoinTalk](https://umrcointalk.io/) forums.
+Build the files and then run UMRcoin-Core.
 
 Building
 ---------------------
@@ -50,7 +43,6 @@ The UMRcoin repo's [root README](/README.md) contains relevant information on th
 - [Developer Notes](developer-notes.md)
 - [Release Notes](release-notes.md)
 - [Release Process](release-process.md)
-- [Source Code Documentation (External Link)](https://dev.visucore.com/umrcoin/doxygen/)
 - [Translation Process](translation_process.md)
 - [Translation Strings Policy](translation_strings_policy.md)
 - [Travis CI](travis-ci.md)
@@ -59,10 +51,6 @@ The UMRcoin repo's [root README](/README.md) contains relevant information on th
 - [BIPS](bips.md)
 - [Dnsseed Policy](dnsseed-policy.md)
 - [Benchmarking](benchmarking.md)
-
-### Resources
-* Discuss on the [UMRcoinTalk](https://umrcointalk.io/) forums.
-* Discuss general UMRcoin development on #umrcoin-qtdev on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net/?channels=umrcoin-qtdev).
 
 ### Miscellaneous
 - [Assets Attribution](assets-attribution.md)
