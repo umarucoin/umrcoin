@@ -49,7 +49,7 @@ static const int MAX_URI_LENGTH = 255;
 #define SPINNER_FRAMES 36
 
 #define QAPP_ORG_NAME "UMRcoin"
-#define QAPP_ORG_DOMAIN "umaru-coin.com"
+#define QAPP_ORG_DOMAIN "umarucoin.github.io"
 #define QAPP_APP_NAME_DEFAULT "UMRcoin-Qt"
 #define QAPP_APP_NAME_TESTNET "UMRcoin-Qt-testnet"
 

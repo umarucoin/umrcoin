@@ -514,7 +514,7 @@ std::string HelpMessage(HelpMessageMode mode)
 std::string LicenseInfo()
 {
     const std::string URL_SOURCE_CODE = "<https://github.com/umarucoin/umrcoin>";
-    const std::string URL_WEBSITE = "<https://umaru-coin.com>";
+    const std::string URL_WEBSITE = "<https://umarucoin.github.io>";
 
     return CopyrightHolders(strprintf(_("Copyright (C) %i-%i"), 2013, COPYRIGHT_YEAR) + " ") + "\n" +
            "\n" +

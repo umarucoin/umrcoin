@@ -1,6 +1,6 @@
 UMRcoin Core version 0.14.2 is now available from:
 
-  <https://umaru-coin.com/>
+  <https://umarucoin.github.io/>
 
 This is a new major version release, including new features, various bugfixes
 and performance improvements, as well as updated translations.
