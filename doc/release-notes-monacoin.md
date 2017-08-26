@@ -46,7 +46,7 @@ Reset Testnet
 -------------
 
 Testnet3 has been deprecated and replaced with Testnet4. The server port has been changed to 19403 however the RPC port remains
-the same (19402).
+the same (19442).
 
 Developers who require the new testnet blockchain paramaters can find them [here](https://github.com/umarucoin/umrcoin/blob/master-0.14/src/chainparams.cpp#L220).
 

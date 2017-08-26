@@ -42,7 +42,7 @@ reachable from the Tor network. Add these lines to your /etc/tor/torrc (or equiv
 config file):
 
 	HiddenServiceDir /var/lib/tor/umrcoin-qtservice/
-	HiddenServicePort 9401 127.0.0.1:9401
+	HiddenServicePort 9441 127.0.0.1:9401
 	HiddenServicePort 19403 127.0.0.1:19403
 
 The directory can be different of course, but (both) port numbers should be equal to
@@ -81,7 +81,7 @@ as well, use `discover` instead:
 
 	./umrcoind ... -discover
 
-and open port 9401 on your firewall (or use -upnp).
+and open port 9441 on your firewall (or use -upnp).
 
 If you only want to use Tor to reach onion addresses, but not use it as a proxy
 for normal IPv4/IPv6 communication, use:
