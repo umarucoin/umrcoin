@@ -32,12 +32,6 @@ regularly to indicate new official, stable release versions of UMRcoin Core.
 
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md).
 
-The developer [mailing list](https://groups.google.com/forum/#!forum/umrcoin-qtdev)
-should be used to discuss complicated or controversial changes before working
-on a patch set.
-
-Developer IRC can be found on Freenode at #umrcoin-qtdev.
-
 Testing
 -------
 
